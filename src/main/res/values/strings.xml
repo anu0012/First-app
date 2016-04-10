@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">ISKCON - Place of Pure Devotees</string>
+
+    <string name="hello_world">HARE KRISHNA HARE KRISHNA \nKRISHNA KRISHNA HARE HARE \nHARE RAMA HARE RAMA \nRAMA RAMA HARE HARE</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutsp">Srila Prabhupada was a Gaudiya Vaishnava spiritual master and the founder of the International Society for Krishna Consciousness(ISKCON).
+    Abhay Charan De(later known as Srila Prabhupada) was born on 1 September,1896 in Kolkata. In 1922,he met with a prominent scholar and religious leader, Srila Bhaktisiddhanta Sarasvati. He became his disciple. Srila Bhaktisiddhanta was a leader in the Gaudiya Vaishnava denomination, a monotheistic tradition within the broad Hindu culture. He asked Abhay to spread the messege of Krishna consciousness to the English-speaking world.
+        When His Divine Grace A.C. Bhaktivedanta Swami (who later became known as Srila Prabhupada) entered the port of New York City on September 17, 1965, few Americans took notice — but he was not merely another immigrant.  He was on a mission to introduce an ancient religion, which originated in India, into mainstream America.  Before Srila Prabhupada passed away on November 14, 1977, at the age of 81, his mission proved successful.  He had founded the International Society for Krishna Consciousness (ISKCON) and saw it grow into a worldwide confederation of more than 100 temples, ashrams and cultural centers.
+        He spread the messege of Krishna to the world which comes from disciplic succession.\n
+
+       The Disciplic Succession : \n
+        1. Krishna\n
+2. Brahma\n
+3. Narada\n
+4. Vyasa\n
+5. Madhva\n
+6. Padmanabha\n
+7. Narahari\n
+8. Madhava\n
+9. Akshobhya\n
+10. Jaya Tirtha\n
+11. Jnanasindhu\n
+12. Dayanidhi\n
+13. Vidyanidhi\n
+14. Rajendra\n
+15. Jayadharma\n
+16. Purusottama\n
+17. Brahmanya Tirtha\n
+18. Vyasa Tirtha\n
+19. Lakshmipati\n
+20. Madhavendra Puri\n
+21. Ishvara Puri, (Nityananda, Advaita)\n
+22. Lord Chaitanya\n
+23. Rupa Goswami, (Svarupa, Sanatana Goswami)\n
+24. Raghunatha, Jiva Goswami\n
+25. Krishnadasa\n
+26. Narottama\n
+27. Vishvanatha\n
+28. Srila Jagannatha Dasa Babaji Maharaja,(Srila Baladeva Vidyabhushana)\n
+29. Srila Bhaktivinoda Thakura\n
+30. Srila Gaurakishora Dasa Babaji Maharaja\n
+31. Srila Bhaktisiddhanta Sarasvati Thakura\n
+32. AC Bhaktivedanta Swami Prabhupada\n
+    </string>
+    <string name="abouti">The International Society for Krishna Consciousness(ISKCON) is founded by A.C. Bhaktivedanta Srila Prabhupada. ISKCON belongs to the Gaudiya-Vaishnava sampradāya, a monotheistic tradition within the Vedic or Hindu culture. It was registered in the West (in New York) in July 1966, but dates back over 5000 years. Lord Chaitanya Mahaprabhu (1486-1532) popularized the movement all over India. ISKCON follows the teachings of the Vedas and the Vedic scriptures, includingBhagavad-gita and the Bhagavata Purana; it teaches and practices Vaishnavism, or devotion to God in the supreme personal aspect of Radha Krishna. Members of ISKCON practice bhakti-yoga in their homes and also worship in temples. They also promote bhakti-yoga, or Krishna Consciousness, through festivals, the performing arts, yoga seminars, public chanting, and the distribution of the society’s literatures. ISKCON members have also opened hospitals, schools, colleges, eco-villages, free food distribution projects, and other institutions as a practical application of the path of devotional yoga. </string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="title_activity_main_activity22">MainActivity22Activity</string>
+    <string name="title_activity_main_activity23">MainActivity23Activity</string>
+    <string name="title_activity_main_activity24">MainActivity24Activity</string>
+
+    <string name="schedule1">\t\t\t\t\t<b>TEMPLE EVENTS</b>\n
+
+ Samadhi Arati – 04:10 AM\n
+ Mangala Arati – 04:30 AM\n
+ Tulasi Arati – 05:05 AM\n
+ Guru Puja – 07:15 AM\n
+ Shringar Arati – 07:25 AM\n
+ Bhagavatam – 08:00 AM\n
+ Pushpa Arati – 08:30 AM\n
+ Raj Bhoga Arati – 12:00 PM\n
+ Temple Closes – 12:45 PM\n
+ Utthapan Arati – 04:00 PM\n
+Sandhaya Arati – 06:30 PM\n
+ Shayan Arti – 08:00 PM\n
+Temple Closes – 08.15 PM\n
+\n
+Darshan doesn’t close\n
+at 11.00 am and 6.30 pm\n
+on festivals and weekends.</string>
+    <string name="schedule2"><b>\t\t\t\t\tTEMPLE SCHEDULE</b>\n\nMangala-arati: 4:30am \n(closes at 5:00am)\n\n
+Darsana-arati: 7:00am\n\n
+Srila Prabhupada Guru-puja: 7:30am\n\n
+Class on Srimad-Bhagavatam (English and Bengali separately): 8:00am\n\n
+Bhoga-arati: 12 noon \n(temple closes at 1:00pm and reopens at 4:00pm)\n\n
+Sandhya-arati: 6:30pm\n\n
+Class on Bhagavad-gita (Bengali): 7:45pm (temple closes at 8:30pm)\n\n</string>
+    <string name="schedule3">Darshans are open at the following timings\n
+04:30 am :      Mangala arati\n
+05:15 am :      Tulsi-puja\n
+07:15 am :      Sringar darshan\n
+07:30 am :      Guru puja\n
+08:00 am :      Bhagavatam discourse\n
+12:30 pm :      Raj Bhoga arati\n
+04:30 pm :      Usthapana arati\n
+07:00 pm :      Sandhya arati\n
+07:30 pm :      Bhagavad-gita discourse\n
+08:30 pm :      Shayana arati\n
+ \n
+Temple shall remain closed at the following timing:\n
+01:00 pm to 04:30 pm\n
+09:00 pm to 04.30 am\n\n</string>
+    <string name="title_activity_main_activity25">MainActivity25Activity</string>
+    <string name="title_activity_main_activity26">MainActivity26Activity</string>
+    <string name="title_activity_main_activity27">MainActivity27Activity</string>
+    <string name="title_activity_main_activity28">MainActivity28Activity</string>
+    <string name="title_activity_main_activity29">MainActivity29Activity</string>
+</resources>

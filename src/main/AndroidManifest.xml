@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.myapplication2" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity2Activity"
+            android:label="@string/title_activity_main_activity2"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity22Activity"
+            android:label="@string/title_activity_main_activity22"
+            android:parentActivityName=".MainActivity2Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity2Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity23Activity"
+            android:label="@string/title_activity_main_activity23"
+            android:parentActivityName=".MainActivity2Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity2Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity24Activity"
+            android:label="@string/title_activity_main_activity24"
+            android:parentActivityName=".MainActivity2Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity2Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity25Activity"
+            android:label="@string/title_activity_main_activity25"
+            android:parentActivityName=".MainActivity24Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity24Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity26Activity"
+            android:label="@string/title_activity_main_activity26"
+            android:parentActivityName=".MainActivity2Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity2Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity27Activity"
+            android:label="@string/title_activity_main_activity27"
+            android:parentActivityName=".MainActivity26Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity26Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity28Activity"
+            android:label="@string/title_activity_main_activity28"
+            android:parentActivityName=".MainActivity2Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity2Activity" />
+        </activity>
+        <activity
+            android:name=".MainActivity29Activity"
+            android:label="@string/title_activity_main_activity29"
+            android:parentActivityName=".MainActivity28Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.hp.myapplication2.MainActivity28Activity" />
+        </activity>
+    </application>
+
+</manifest>
